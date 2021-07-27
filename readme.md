@@ -1,2 +1,2 @@
-# Project Euler
-This repo has files in Python to solve Project Euler problems 1-10.
+# Project Euler in Python
+This repository has Python scripts to solve Project Euler problems 1-10.
